@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Or open the notebook directly on Google Colab.
 
 ### 3. Open and Run the Notebook
-- Open `movie_rating_model.ipynb`
+- Open `` or the link ` https://colab.research.google.com/drive/1WJJlllOuDDe7DMhBfR0pDVIZgSwITkGs?usp=sharing`
 - Upload the dataset `IMDb_Movies_India.csv` when prompted
 - Execute all cells
 
