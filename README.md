@@ -19,7 +19,7 @@ This repository contains a machine learning project that predicts IMDb movie rat
 
 ### 1. Clone the Repository
 ```bash
-
+https://github.com/ashutoshsharan2003/GrowthLink_Movie-Rating-Prediction/tree/main
 ```
 
 ### 2. Install Dependencies
