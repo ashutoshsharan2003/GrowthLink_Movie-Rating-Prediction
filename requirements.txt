@@ -1,2 +1,2 @@
-# 📦 Install dependencies
+#  Install dependencies
 !pip install pandas scikit-learn
